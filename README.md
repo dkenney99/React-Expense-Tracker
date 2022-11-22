@@ -1,2 +1,1 @@
-# react-sandbox
-learning React from Udemy
+Expense tracker with React framework
